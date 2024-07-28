@@ -1,5 +1,1 @@
-new.png - Pixel Perfect
-open.png - Chanut
-save.png - smashingstocks
-
-Program Icon - Smashicons
+Program Icon made by Smashicons
