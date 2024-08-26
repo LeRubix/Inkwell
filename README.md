@@ -14,5 +14,5 @@ More basic than Visual Studio, more advanced than notepad :)
 - Use syntax highlighting by defining a code block with `"""python` and ending it with `"""`, for more info click the `Edit` menu and select `Syntax Highlighting`
 - You can also use various types of markdown formatting, like *italics*, **bold**, and more!
 - Check for future updates by clicking the `About` menu and selecting `Check for Updates`
-
-
+<br><br>
+![image](https://github.com/user-attachments/assets/492b70a6-2a86-4118-958b-fa2b724d32f5)
